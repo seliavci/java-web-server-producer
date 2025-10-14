@@ -15,7 +15,7 @@ Proje, Nesneye Yönelik Programlama dersi kapsamında hazırlanmıştır.
 
 Çalışma Mantığı:
 -Java programı belirtilen bir port üzerinden (örnek: 1989) dinleme yapar.
--Tarayıcıdan http://localhost:1989 adresine istek geldiğinde sunucu bağlantıyı kabul eder.
+-Tarayıcıdan http://localhost:2025 adresine istek geldiğinde sunucu bağlantıyı kabul eder.
 -Sunucu, kullanıcıya HTML formatında bir sayfa gönderir.
 -Sayfada öğrencinin adı, numarası ve proje bilgileri yer alır.
 
