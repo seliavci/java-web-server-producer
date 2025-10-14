@@ -46,10 +46,6 @@ Tarayıcıda aşağıdaki gibi bir ekran görüntülenir:
 
 
 
-Selin Avcı
-Öğrenci No: 5230505117
-Kırklareli Üniversitesi - Yazılım Mühendisliği 2. Sınıf
-Nesneye Yönelik Programlama Dersi Ödevi
 
 
 Bu proje yalnızca öğrenme ve ödev amaçlı hazırlanmıştır.
