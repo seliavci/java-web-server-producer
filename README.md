@@ -37,6 +37,15 @@ http://localhost:1989
 Sayfa yüklendiğinde projenin HTML çıktısı görüntülenecektir.
 
 Tarayıcıda aşağıdaki gibi bir ekran görüntülenir:
+
+
+<img width="1710" height="1107" alt="Ekran Resmi 2025-10-15 ÖÖ 12 05 07" src="https://github.com/user-attachments/assets/03e7ee5b-8543-445c-a866-c929f15470f1" />
+
+
+
+
+
+
 Selin Avcı
 Öğrenci No: 5230505117
 Kırklareli Üniversitesi - Yazılım Mühendisliği 2. Sınıf
